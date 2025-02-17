@@ -1,4 +1,4 @@
-# Tic Tac Toe Game using Networking  🎮
+# Tic Tac Toe Game - Network Programming  🎮
 
 This project implements a Tic Tac Toe game with both networked multiplayer 🌐 and single-player modes 🤖, allowing players to compete against each other over a network or against an AI opponent. It includes a server component to manage networked game states and client applications for players to interact with the game.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
